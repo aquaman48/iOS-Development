@@ -6,7 +6,7 @@ Files for iOS projects using XCode with Mac in cloud services.
  
  ### Rich
  
- ![Icon]() ![Screen]()
+ ![Icon](https://github.com/aquaman48/iOS-Development/blob/main/Storyboards/Rich/IamRich_Main.png) ![Screen](https://github.com/aquaman48/iOS-Development/blob/main/Storyboards/Rich/IamRich_Home.png)
  
  ### Poor
 
