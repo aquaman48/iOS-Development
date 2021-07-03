@@ -10,4 +10,4 @@ Files for iOS projects using XCode with Mac in cloud services.
  
  ### Poor
 
- ![Icon]() ![Screen]()
+ ![Icon]() ![Screen](https://github.com/aquaman48/iOS-Development/blob/main/Storyboards/Poor/IamPoor_Main.png)
