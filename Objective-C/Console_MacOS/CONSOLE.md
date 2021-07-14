@@ -18,13 +18,14 @@ As you can see in the results the program is really straight to the point. Once 
 ![boy](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Obj-C_Console/GenderReveal/GenderReveal_Boy.PNG) ![girl](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Obj-C_Console/GenderReveal/GenderReveal_Girl.PNG)
 
 ### Cold Hard Cash ATM (First)
-
+This program was simple, well the first rendition I did of it anyway. All the code was in the Main function and did not use functions at all. 
 
 #### Results
 
 ![Account](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Obj-C_Console/ColdHardCashATM/ColdHardCashAtm_Account.PNG) ![Dep](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Obj-C_Console/ColdHardCashATM/ColdHardCashAtm.PNG)
 
 ### Cold Hard Cash ATM (Second/Functions)
+In this version of the program I used functions to help better group the code and have everything run smoother. Also, practiced my function skills. 
 
 #### Results
 
