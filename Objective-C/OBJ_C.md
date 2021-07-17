@@ -7,6 +7,7 @@ OS: MacOS (in cloud)
 
 These files are basic console programs that use various concepts that I have learned that range from simple string/data manipulation up to working with classes and such. A lot of good fundamental practice to help solidify the basics. 
 
+# Basics
 
 ### Gender Reveal
 
