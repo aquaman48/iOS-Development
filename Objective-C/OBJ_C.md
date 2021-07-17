@@ -20,7 +20,11 @@ As you can see in the results the program is really straight to the point. Once 
 
 ### ErrorFix
 
+This program was a fun challenge. I was given said code and had to debug it to get it to work properly. Was a little trial and error but finally I got it. Learning in action!
+
 #### Results
+
+![ErrorFix](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Obj-C_Console/ErrorFix/ErrorFix.PNG)
 
 # Arrays
 
