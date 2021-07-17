@@ -23,7 +23,10 @@ As you can see in the results the program is really straight to the point. Once 
 #### Results
 
 
-### NSArray
+### ArrayFun
+This program is very simple and was the first look at working with arrays using Objective-C. 
 
 #### Results
+
+![Arrays](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Obj-C_Console/ArrayFun/Array_Dictionary_Fun.PNG)
 
