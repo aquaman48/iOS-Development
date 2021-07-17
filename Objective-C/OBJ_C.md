@@ -5,7 +5,7 @@ OS: MacOS (in cloud)
 
 ## Hello
 
-These files are basic console programs that use various concepts that I have learned.
+These files are basic console programs that use various concepts that I have learned that range from simple string/data manipulation up to working with classes and such. A lot of good fundamental practice to help solidify the basics. 
 
 
 ### Gender Reveal
@@ -22,6 +22,7 @@ As you can see in the results the program is really straight to the point. Once 
 
 #### Results
 
+# Arrays
 
 ### ArrayFun
 This program is very simple and was the first look at working with arrays using Objective-C. 
@@ -29,4 +30,14 @@ This program is very simple and was the first look at working with arrays using 
 #### Results
 
 ![Arrays](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Obj-C_Console/ArrayFun/Array_Dictionary_Fun.PNG)
+
+# Classes
+
+### Business Information
+
+This program is a simple one that incorporates the use of `@interface` and `@implementation` files.
+
+#### Results
+
+![BusinessInfo](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Obj-C_Console/BusinessInformation/BusinessInformation.PNG)
 
