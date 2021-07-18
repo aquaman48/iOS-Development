@@ -1,6 +1,6 @@
 # iOS-Development
 
-Compiler used: XCode
+Compiler used: XCode12
 OS: MacOS (in cloud)
 
 ## Hello
