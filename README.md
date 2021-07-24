@@ -18,3 +18,4 @@ Files for iOS projects using XCode with Mac in cloud services.
 #### Results
 
 
+![Home](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/Magic8/Magic8_Home.png)
