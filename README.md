@@ -29,4 +29,5 @@ As you can see there is a home screen icon and once the application is open they
 
 
 #### Results
-Will update..
+
+![Main](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/ApplePieGame/ApplePie_Main.png)
