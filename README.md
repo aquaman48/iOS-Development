@@ -31,4 +31,4 @@ This application was built for the iPad and is a word guessing game.
 
 #### Results
 
-![Main](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/ApplePieGame/ApplePie_Main.png)
+![Main](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/ApplePieGame/ApplePie_Main.png) ![Guess](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/ApplePieGame/ApplePie_Guess.png)
