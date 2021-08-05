@@ -27,7 +27,7 @@ As you can see there is a home screen icon and once the application is open they
 
 ### Apple Pie Game
 
-This application was built for the iPad and is a word guessing game. Object of this game is the user tries to guess the word that is represented with underscores at the bottom of the screen. 
+This application was built for the iPad and is a word guessing game. Object of this game is the user tries to guess the word that is represented with underscores at the bottom of the screen. Since this was an iPad application and not what I am normally used to, I made the screenshots to small. The bottom portion is not very well seen here.
 
 #### Results
 
