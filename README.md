@@ -32,3 +32,5 @@ This application was built for the iPad and is a word guessing game. Object of t
 #### Results
 
 ![Main](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/ApplePieGame/ApplePie_Main.png) ![Guess](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/ApplePieGame/ApplePie_Guess.png)
+
+![OtherGuess](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/ApplePieGame/ApplePie_Trial.png) ![Result](https://github.com/aquaman48/iOS-Development/blob/main/Screenshots/Swift/ApplePieGame/ApplePie_Wins-Losses.png)
