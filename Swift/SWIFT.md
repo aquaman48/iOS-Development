@@ -5,6 +5,7 @@ Files for iOS projects using XCode with Mac in cloud services.
 
 - Storyboards
 - Apple Pie Game
+- Magic 8 Ball
 
 
 ### Apple Pie Game
